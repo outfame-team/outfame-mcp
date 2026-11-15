@@ -1,7 +1,7 @@
 {
   "name": "outfame-mcp",
   "version": "1.0.0",
-  "description": "Outfame MCP server for Instagram growth: plans and first-month prices, free Instagram tools, blog search and company facts for AI agents (Claude, Cursor, ChatGPT). Stdio bridge to https://www.outfame.com/mcp.",
+  "description": "Outfame MCP server for Instagram growth: plans and first-month prices, free Instagram tools, blog search and company facts for AI agents (Claude, Cursor, Windsurf). Stdio bridge to https://www.outfame.com/mcp.",
   "bin": { "outfame-mcp": "bin/outfame-mcp.js" },
   "files": ["bin/", "README.md", "LICENSE"],
   "engines": { "node": ">=18" },

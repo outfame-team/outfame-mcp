@@ -2,7 +2,7 @@
 
 [Outfame](https://www.outfame.com) is an AI-powered Instagram growth service, with TikTok support, for creators, small businesses and agencies. It grows your account by engaging the followers of accounts and hashtags you choose, so real, targeted people discover you and choose to follow. You add your account by its username only: Outfame never asks for your Instagram password.
 
-This package connects any MCP client (Claude Desktop, Claude Code, Cursor, Windsurf, Cline, Zed, ChatGPT connectors) to Outfame's official remote MCP server at `https://www.outfame.com/mcp`. It is read-only, needs no API key and has no dependencies.
+This package connects any MCP client (Claude Desktop, Claude Code, Cursor, Windsurf, Cline, Zed) to Outfame's official remote MCP server at `https://www.outfame.com/mcp`. It is read-only, needs no API key and has no dependencies.
 
 ## Install
 
