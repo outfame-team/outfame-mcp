@@ -1,0 +1,15 @@
+{
+  "name": "outfame-mcp",
+  "version": "1.0.0",
+  "description": "Outfame MCP server for Instagram growth: plans and first-month prices, free Instagram tools, blog search and company facts for AI agents (Claude, Cursor, ChatGPT). Stdio bridge to https://www.outfame.com/mcp.",
+  "bin": { "outfame-mcp": "bin/outfame-mcp.js" },
+  "files": ["bin/", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "homepage": "https://www.outfame.com/docs/agents",
+  "repository": { "type": "git", "url": "git+https://github.com/outfame-team/outfame-mcp.git" },
+  "bugs": { "url": "https://github.com/outfame-team/outfame-mcp/issues" },
+  "author": "Outfame Team <support@outfame.com> (https://www.outfame.com)",
+  "license": "MIT",
+  "mcpName": "com.outfame/instagram-growth",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "instagram", "instagram-growth", "instagram-followers", "tiktok", "social-media", "social-media-marketing", "growth", "ai-agents", "claude", "cursor", "outfame"]
+}
